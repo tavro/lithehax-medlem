@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.86c09ba3.css",
-    "main.js": "/static/js/main.e94865bb.js",
-    "static/js/453.73739900.chunk.js": "/static/js/453.73739900.chunk.js",
-    "index.html": "/index.html",
-    "main.86c09ba3.css.map": "/static/css/main.86c09ba3.css.map",
-    "main.e94865bb.js.map": "/static/js/main.e94865bb.js.map",
-    "453.73739900.chunk.js.map": "/static/js/453.73739900.chunk.js.map"
+    "main.css": "/lithehax-medlem/static/css/main.d9074748.css",
+    "main.js": "/lithehax-medlem/static/js/main.50d07e78.js",
+    "static/js/453.73739900.chunk.js": "/lithehax-medlem/static/js/453.73739900.chunk.js",
+    "index.html": "/lithehax-medlem/index.html",
+    "main.d9074748.css.map": "/lithehax-medlem/static/css/main.d9074748.css.map",
+    "main.50d07e78.js.map": "/lithehax-medlem/static/js/main.50d07e78.js.map",
+    "453.73739900.chunk.js.map": "/lithehax-medlem/static/js/453.73739900.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86c09ba3.css",
-    "static/js/main.e94865bb.js"
+    "static/css/main.d9074748.css",
+    "static/js/main.50d07e78.js"
   ]
 }
