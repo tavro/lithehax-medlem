@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lithehax-medlem/static/css/main.08f33930.css",
-    "main.js": "/lithehax-medlem/static/js/main.6273c8f9.js",
+    "main.js": "/lithehax-medlem/static/js/main.9ac8ad7a.js",
     "static/js/453.73739900.chunk.js": "/lithehax-medlem/static/js/453.73739900.chunk.js",
     "index.html": "/lithehax-medlem/index.html",
     "main.08f33930.css.map": "/lithehax-medlem/static/css/main.08f33930.css.map",
-    "main.6273c8f9.js.map": "/lithehax-medlem/static/js/main.6273c8f9.js.map",
+    "main.9ac8ad7a.js.map": "/lithehax-medlem/static/js/main.9ac8ad7a.js.map",
     "453.73739900.chunk.js.map": "/lithehax-medlem/static/js/453.73739900.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08f33930.css",
-    "static/js/main.6273c8f9.js"
+    "static/js/main.9ac8ad7a.js"
   ]
 }
